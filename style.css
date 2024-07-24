@@ -1,0 +1,21 @@
+h1{
+    background-color: burlywood;
+    text-align: center;
+}
+label{
+    color: yellow;
+    font-size: larger;
+}
+form{
+    background-color: black;
+}
+button{
+width: 400px;
+background-color: green;
+border-radius: 50px;
+}
+input{
+    border-radius: 50px;
+    width: 400px;
+    height: 20px;
+}
